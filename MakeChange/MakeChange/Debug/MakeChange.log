@@ -1,0 +1,3 @@
+﻿  MakeChange.cpp
+C:\Data\CP3\Make Change\MakeChange\MakeChange\MakeChange.cpp(32,43): warning C4305: 'initializing': truncation from 'double' to 'float'
+  MakeChange.vcxproj -> C:\Data\CP3\Make Change\MakeChange\Debug\MakeChange.exe
